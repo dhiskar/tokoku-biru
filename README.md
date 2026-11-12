@@ -116,7 +116,7 @@ window.FIREBASE_CONFIG = {
   appId: "...",
   googleSignIn: false
 };
-window.APP_INFO = { name: "TokoKu", version: "1.0.0", site: "tokoku-kelontong.web.app" };
+window.APP_INFO = { name: "TokoKu", version: "1.0.0", site: "tokoku-biru.web.app" };
 ```
 
 ## Struktur data (Firestore)
