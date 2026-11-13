@@ -1,5 +1,5 @@
 window.FIREBASE_CONFIG = {
-  apiKey: "AIzaSyC2Rg9rbw9T6dMvzSOBRKPQp6Amb4vd-B0",
+  apiKey: "",
   authDomain: "tokoku-biru.firebaseapp.com",
   projectId: "tokoku-biru",
   storageBucket: "tokoku-biru.firebasestorage.app",
